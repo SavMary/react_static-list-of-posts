@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/PostInfo/PostInfo.scss","webpack://src/App.scss"],"names":[],"mappings":"AACA,MACE,4BAA6B,CCF/B,KACE,qBAAsB","file":"main.50e74b0f.chunk.css","sourcesContent":["//\r\n.post {\r\n  border-bottom: 1px solid #000;\r\n}\r\n","body {\r\n  background-color: #eea;\r\n}\r\n"]}
